@@ -1,0 +1,25 @@
+[17:00:53] alt:V Server 2.10 (release)
+[17:00:53] Starting test-gtav-ez on 0.0.0.0:7788
+[17:00:53] Loading resource example
+[17:00:53] Deathmatch server started
+[17:00:53] Loaded resource example
+[17:00:53] Loading resource altv-log
+[17:00:53] Loaded resource altv-log
+[17:00:53] Required server permissions:
+[17:00:53] Optional server permissions:
+[17:00:53] Starting HTTP server on 0.0.0.0:7788
+[17:00:53] Main thread started (ThreadId: 17052)
+[17:00:53] Colshape thread started (ThreadId: 14296)
+[17:00:53] EntityStreamer thread started (ThreadId: 12920)
+[17:00:53] Console thread started (ThreadId: 16692)
+[17:00:53] Network thread started (ThreadId: 2984)
+[17:00:53] Server started
+[17:00:57] player 0 with username knoxwell connected
+[17:00:58] player 1 with username DeepKerch connected
+[17:02:41][Warning] Event handler at example:file:///D:/Projects/test-task-gta/server/resources/example/server/startup.js:106 was too long 14ms
+[17:03:00] [object Object]
+[17:03:11] Stopping resource example
+[17:03:11] Stopped resource example
+[17:03:11] Stopping resource altv-log
+[17:03:11] Stopped resource altv-log
+[17:03:11] Server shutdown
